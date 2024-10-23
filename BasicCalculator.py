@@ -17,7 +17,7 @@ def mult(x,y):
 def div(x,y):
     return(x / y)
 
-### main
+# main
 while True:
 
     # ask what operator to use.
