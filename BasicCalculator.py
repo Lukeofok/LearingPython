@@ -45,5 +45,5 @@ while True:
 
     # end program
     quit = input("Do you want to quit? ")
-    if quit in ["yes", "Yes", "y", "Y"]:
+    if quit in ["yes", "Yes", "y", "Y", "ya", "Ya"]:
         break

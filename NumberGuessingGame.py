@@ -7,7 +7,7 @@ import random
 def check_guess(answer, guess):
 
     if guess > answer:
-        print(f"\nYour guess is GRATER than the nubmer I am thinking of.")
+        print(f"\nYour guess is GREATER than the nubmer I am thinking of.")
         return(1)
     elif guess < answer:
         print(f"\nYour guess is LESS than the nubmer I am thinking of.")
